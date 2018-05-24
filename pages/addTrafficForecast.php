@@ -14,7 +14,7 @@ echo $_POST['description'] . "<br>";
 */
 
 date_default_timezone_set('Asia/Hong_Kong');
-$date = date('Y-m-d') . 'T' . date('h:i');
+$date = date('Y-m-d') . 'T' . date('H:i');
 $location = array(
 	'Location' => $_POST['location'],
 	'Street_Number' => $_POST['street_number'],
