@@ -1,0 +1,116 @@
+{
+    "element": "accendent2",
+    "data": [
+        {
+            "time": "2018-01-12 00:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 01:00",
+            "CentralWestern": "100"
+        },
+        {
+            "time": "2018-01-12 02:00",
+            "CentralWestern": "50"
+        },
+        {
+            "time": "2018-01-12 03:00",
+            "CentralWestern": "57"
+        },
+        {
+            "time": "2018-01-12 04:00",
+            "CentralWestern": "53"
+        },
+        {
+            "time": "2018-01-12 05:00",
+            "CentralWestern": "50"
+        },
+        {
+            "time": "2018-01-12 06:00",
+            "CentralWestern": "43"
+        },
+        {
+            "time": "2018-01-12 07:00",
+            "CentralWestern": "45"
+        },
+        {
+            "time": "2018-01-12 08:00",
+            "CentralWestern": "10"
+        },
+        {
+            "time": "2018-01-12 09:00",
+            "CentralWestern": "17"
+        },
+        {
+            "time": "2018-01-12 10:00",
+            "CentralWestern": "23"
+        },
+        {
+            "time": "2018-01-12 11:00",
+            "CentralWestern": "14"
+        },
+        {
+            "time": "2018-01-12 12:00",
+            "CentralWestern": "22"
+        },
+        {
+            "time": "2018-01-12 13:00",
+            "CentralWestern": "20"
+        },
+        {
+            "time": "2018-01-12 14:00",
+            "CentralWestern": "25"
+        },
+        {
+            "time": "2018-01-12 15:00",
+            "CentralWestern": "17"
+        },
+        {
+            "time": "2018-01-12 16:00",
+            "CentralWestern": 13
+        },
+        {
+            "time": "2018-01-12 17:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 18:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 19:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 20:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 21:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 22:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 23:00",
+            "CentralWestern": null
+        },
+        {
+            "time": "2018-01-12 24:00",
+            "CentralWestern": null
+        }
+    ],
+    "xkey": "time",
+    "ykeys": [
+        "CentralWestern"
+    ],
+    "labels": [
+        "CentralWestern"
+    ],
+    "pointSize": 4,
+    "hideHover": "auto",
+    "resize": true,
+    "smooth": false
+}
